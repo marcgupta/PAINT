@@ -1,0 +1,26 @@
+h1
+{
+	color: red; 
+}
+#myCanvas
+{
+background-color:white;
+border-style:ridge;
+border-width:10px;
+}
+
+body{
+  cursor:pointer;
+}
+input
+  {
+    margin-right: 20px;
+  }
+
+body {
+	background-image: url(bg1.jpg);
+}
+
+span {
+	margin-right: 10px;
+}
